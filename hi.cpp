@@ -2,6 +2,7 @@
 #include<conio.h>
 
 void main() {
-    printf("Hello world!");
-    int x=11111;
+    printf(" world!");
+    int x=12;
+    int y =6;
 }
