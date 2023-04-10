@@ -2,6 +2,5 @@
 #include<conio.h>
 
 void main() {
-    printf("Hello world!");
-    int x=6;
+    printf("Function!");
 }
